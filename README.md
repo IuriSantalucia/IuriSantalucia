@@ -2,7 +2,7 @@
 
 # 🌐 Iuri Santalucia — Developer & Cybersecurity Portfolio
 
-[![Live Demo](https://img.shields.io/badge/🔗_Ver_Portfolio_Online-00ff88?style=for-the-badge&logoColor=black)](https://iurisantalucia.github.io/portifolio)
+[![Live Portfolio](https://img.shields.io/badge/🔗_Ver_Portfolio_Online-00ff88?style=for-the-badge&logoColor=black)](https://iurisantalucia.github.io/portifolio)
 [![GitHub](https://img.shields.io/badge/GitHub-IuriSantalucia-181717?style=for-the-badge&logo=github)](https://github.com/IuriSantalucia)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Iuri_Santalucia-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iuri-santalucia-996491195/)
 
@@ -36,7 +36,73 @@
 
 ---
 
-## 🛡️ Projetos no Portfolio
+## 🚀 Featured Projects — GitHub
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛠️ DevKit Toolkit
+**37 developer tools in one app**
+
+JSON Formatter, Base64, UUID Generator, Hash, Regex Tester, JWT Decoder, SQL Formatter, Pomodoro Timer, Password Generator, Checksum Verifier, Snippet Manager, Flexbox Playground, and 25 more tools.
+
+Zero dependencies. 100% local. Works offline.
+
+[![Repo](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/IuriSantalucia/DevKit_ToolKit)
+[![Demo](https://img.shields.io/badge/Live-Demo-6C5CE7?style=flat-square)](https://iurisantalucia.github.io/DevKit_ToolKit)
+
+`JavaScript` `HTML` `CSS` `Web Crypto API`
+
+</td>
+<td width="50%">
+
+### 🌌 Aurora Terminal
+**Interactive cyberpunk terminal in the browser**
+
+Particle system, Matrix rain, 4 themes (Cyberpunk, Matrix, Retro, Ocean), Snake game, audio visualizer, hack simulation, system monitor, and 30+ commands.
+
+Vanilla JS, zero frameworks.
+
+[![Repo](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/IuriSantalucia/aurora---terminal)
+[![Demo](https://img.shields.io/badge/Live-Demo-00FF88?style=flat-square)](https://iurisantalucia.github.io/aurora---terminal)
+
+`JavaScript` `Canvas API` `Web Audio API` `CSS Animations`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔒 SentinelGuard
+**Security monitoring & system scanning**
+
+Real-time security monitoring, SIEM dashboard, system scanning, threat detection, and reporting tool built with PowerShell.
+
+[![Repo](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/IuriSantalucia/sentinelguard)
+
+`PowerShell` `Security` `Monitoring` `SIEM`
+
+</td>
+<td width="50%">
+
+### 🌐 This Portfolio
+**Personal portfolio website**
+
+Cyberpunk-themed portfolio with Matrix rain, glassmorphism, animated terminal, interactive demos, and SIEM dashboard showcase.
+
+[![Repo](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/IuriSantalucia/portifolio)
+[![Live](https://img.shields.io/badge/Live-Site-FF6B6B?style=flat-square)](https://iurisantalucia.github.io/portifolio)
+
+`HTML` `CSS` `JavaScript` `Canvas API`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛡️ Portfolio Projects — Demos & Showcases
 
 <table>
 <tr>
@@ -45,7 +111,7 @@
 ### 🔍 PhantomRecon
 **Recon & OSINT Tool**
 
-Ferramenta de reconhecimento e inteligência de fontes abertas
+Ferramenta de reconhecimento e inteligência de fontes abertas para pentest
 
 `Python` `Security` `OSINT`
 
@@ -55,7 +121,7 @@ Ferramenta de reconhecimento e inteligência de fontes abertas
 ### 🔐 VaultCrypt
 **Encryption Tool**
 
-Criptografia e gerenciamento seguro de dados
+Criptografia e gerenciamento seguro de dados sensíveis
 
 `Python` `Cryptography` `CLI`
 
@@ -65,7 +131,7 @@ Criptografia e gerenciamento seguro de dados
 ### 📡 PacketPulse
 **Network Analyzer**
 
-Análise de pacotes de rede em tempo real
+Análise de pacotes de rede em tempo real com visualização
 
 `Python` `Networking` `Sockets`
 
@@ -77,7 +143,7 @@ Análise de pacotes de rede em tempo real
 ### 🎮 CyberRunner 2077
 **Browser Game**
 
-Jogo cyberpunk jogável direto no browser
+Jogo cyberpunk side-scroller jogável direto no browser
 
 `JavaScript` `Canvas` `Game Dev`
 
@@ -85,21 +151,21 @@ Jogo cyberpunk jogável direto no browser
 <td width="33%" align="center">
 
 ### 🎵 SynthWave Studio
-**Audio Synth**
+**Audio Synthesizer**
 
-Sintetizador de áudio no browser
+Sintetizador de áudio synthwave no browser com teclado interativo
 
 `Web Audio API` `JavaScript` `UI`
 
 </td>
 <td width="33%" align="center">
 
-### 🛡️ SentinelGuard
-**SIEM Dashboard**
+### 🛡️ SentinelGuard SIEM
+**Security Dashboard**
 
-Dashboard de monitoramento de segurança
+Dashboard de monitoramento de segurança com gráficos em tempo real
 
-`JavaScript` `Real-time` `Charts`
+`JavaScript` `Charts` `Real-time`
 
 </td>
 </tr>
@@ -129,12 +195,12 @@ Dashboard de monitoramento de segurança
 
 </div>
 
-### Mobile
+### Mobile Development
 <div align="center">
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android_—_Java-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS_—_Swift-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter_—_Dart-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 </div>
 
@@ -142,22 +208,15 @@ Dashboard de monitoramento de segurança
 <div align="center">
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
-
----
-
-## 🚀 Outros Repositórios
-
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| [🛠️ DevKit Toolkit](https://github.com/IuriSantalucia/DevKit_ToolKit) | 37 ferramentas de dev no browser. Zero dependências, 100% local | `JS` `HTML` `CSS` |
-| [🌌 Aurora Terminal](https://github.com/IuriSantalucia/aurora---terminal) | Terminal cyberpunk interativo com partículas, jogos e 30+ comandos | `JS` `Canvas` `CSS` |
-| [🔒 SentinelGuard](https://github.com/IuriSantalucia/sentinelguard) | Ferramenta de monitoramento de segurança | `PowerShell` `Security` |
 
 ---
 
@@ -165,14 +224,14 @@ Dashboard de monitoramento de segurança
 
 | Tecnologia | Uso |
 |-----------|-----|
-| **HTML5** | Estrutura semântica do site |
-| **CSS3** | Estilos, animações, glassmorphism, gradientes |
-| **JavaScript** | Matrix rain, terminal animado, SIEM dashboard, demos |
-| **Canvas API** | Efeito matrix no background |
+| **HTML5** | Estrutura semântica, single-file |
+| **CSS3** | Glassmorphism, gradientes, animações, grid responsivo |
+| **JavaScript** | Matrix rain canvas, terminal animado, SIEM dashboard, demos interativas |
+| **Canvas API** | Efeito matrix no background, jogos |
 | **Font Awesome** | Ícones |
 | **Google Fonts** | JetBrains Mono + Inter |
 
-> **Zero frameworks. Zero dependências de build. Tudo em um arquivo HTML.**
+> **Zero frameworks. Zero build tools. Zero dependências. Tudo em um arquivo HTML.**
 
 ---
 
@@ -195,10 +254,10 @@ Dashboard de monitoramento de segurança
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=googlechrome&logoColor=black)](https://iurisantalucia.github.io/portifolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iuri-santalucia-996491195/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iurisantalucia@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IuriSantalucia)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=googlechrome&logoColor=black)](https://iurisantalucia.github.io/portifolio)
 
 <br>
 
