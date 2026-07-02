@@ -22,7 +22,7 @@
 
 <div align="center">
 
-🖥️ **[Acesse o Portfolio Online](https://iurisantalucia.github.io/portifolio)**
+🖥️ **[Acesse o Portfolio Online](https://iurisantalucia.github.io/portif-lioc/)**
 
 </div>
 
